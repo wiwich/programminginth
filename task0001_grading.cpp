@@ -1,6 +1,6 @@
 //
 // Question from programming.in.th
-// #0001 grading Problem
+// #0001 Grading Problem
 //
 //
 #include<iostream>

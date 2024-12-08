@@ -1,5 +1,5 @@
 // Question from programming.in.th
-// #0001 grading Problem
+// #0002 Min Max
 //
 //
 #include <bits/stdc++.h>
