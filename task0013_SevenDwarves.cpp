@@ -13,8 +13,6 @@ int main() {
         cin>>num_arr[i];
         sum_arr += num_arr[i];
     }
-    //cout<<sum_arr<<endl;
-
     int find_no=0,a=0,b=0;
     find_no = sum_arr-100;
     for(int i=0;i<N;i++){
@@ -26,9 +24,6 @@ int main() {
         }
         if(a!=0 & b!=0) break;
     }
-
-    //cout<<a<<"+"<<b<<endl;
-
     for(int i=0;i<N;i++){
         if(num_arr[i]==a || num_arr[i]==b)
             continue;
